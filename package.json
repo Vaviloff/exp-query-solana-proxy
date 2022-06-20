@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@solana/spl-token": "^0.2.0",
+    "@solana/spl-token-registry": "^0.2.4519",
+    "@solana/web3.js": "^1.44.0",
+    "dotenv": "^16.0.1",
+    "hpagent": "^1.0.0",
+    "node-fetch": "^3.2.6"
+  },
+  "type": "module"
+}
